@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am just a person from a small island below Australia!
+
+- 🌱 I’m currently learning ruby, html, css and ruby on rails. All inside a course i'm currently studying in.
+
 <!--
 **Chrystoff/chrystoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
