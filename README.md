@@ -1,6 +1,7 @@
 ### Hi there 👋
+### My Name is Brian!
 
-I am just a person from a small island below Australia!
+I am just from a small island below Australia!
 
 - 🌱 I’m currently learning ruby, html, css and ruby on rails. All inside a course i'm currently studying in.
 
